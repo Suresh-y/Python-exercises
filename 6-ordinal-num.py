@@ -5,3 +5,6 @@ if numberStr[-2:] = ('11','12','13')
 
 if numberStr[-1] = ('1')
     return numberStr + "st'"
+
+if numberStr[-1] = ("2")
+    return numberStr + "nd"
