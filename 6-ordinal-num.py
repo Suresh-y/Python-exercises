@@ -5,6 +5,7 @@ if numberStr[-2:] = ('11','12','13')
 
 if numberStr[-1] == ('1'):
     return numberStr + "st'"
+<<<<<<< HEAD
 if numberStr[-1] == ("2"):
     return numberStr + "nd"
 if numberStr[-1] == ("3"):
@@ -23,3 +24,4 @@ assert ordinalSuffix(12) == '12th'
 assert ordinalSuffix(13) == '13th'
 assert ordinalSuffix(14) == '14th'
 assert ordinalSuffix(101) == '101st'
+
